@@ -1,2 +1,2 @@
 # websu.github.io
-websu static
+websu.ru static site
